@@ -7,3 +7,5 @@ Além da revitalização do espaço físico, o projeto tem um foco especial na i
 A "Horta Feliz" é mais do que um jogo, é um convite à ação. Queremos inspirar os jogadores a olharem para seus próprios entornos com outros olhos, percebendo o potencial de cada cantinho e a importância de cuidar do meio ambiente e das pessoas ao seu redor. Que essa iniciativa, através da brincadeira, semeie a conscientização e colha um futuro mais verde e feliz para todos.
 
 OBS: utilizei a inteligência artificial "GEMINI" para me ajudar a corrigir erros no código e a adicionar comentarios(//) ao meu código, não utulizei imagens nem áudio.
+
+easter egg: quando estiver plantando as verduras/flor se clicar na porta(retângulo marrom), uma mensagem aparecera, dizendo se deseja entrar no asilo, se sim, dentro ira aparecr uma fonte de agua(onde me inspirei no asilo de minha cidade aonde tem uma fonte de água)
